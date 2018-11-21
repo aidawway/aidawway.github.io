@@ -2114,7 +2114,7 @@ input, select, textarea {
 
 		.image.avatar {
 			border-radius: 100%;
-			transform: rotate(180deg);
+			transform: rotate(180deg) scale(1);
 		}
 
 			.image.avatar:before {
@@ -2124,7 +2124,7 @@ input, select, textarea {
 			.image.avatar img {
 				border-radius: 100%;
 				width: 100%;
-				transform: scale(3);
+				/*transform: scale(3);*/
 			}
 
 /* List */
