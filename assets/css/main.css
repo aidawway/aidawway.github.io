@@ -2082,7 +2082,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
-			height: 100px;
+			/* height: 100px; */
 			/* width: 1px; */
 		}
 
