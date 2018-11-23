@@ -297,7 +297,6 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
-		height:  200px;
 		/*width: 1274 px;*/
 		overflow: hidden;
 	}
@@ -2083,6 +2082,8 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			height: 100px;
+			/* width: 1px; */
 		}
 
 		.image.left {
