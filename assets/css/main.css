@@ -3194,3 +3194,8 @@ input, select, textarea {
 			}
 
 	}
+
+	.vid {
+		height: 100% !important;
+		width: auto% !important;
+	}
